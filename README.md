@@ -1,4 +1,4 @@
-# Library-Management-System
+# ShelfMinder - Online Library Management System
 
 ShelfMinder is developed for transforming manual offline workloads into an online automatic system. It contains all the main features such as adding and managing students, and books with efficiently maintaining their data. It is a multi-user portal. It also contains other security features such as Captcha Verification and Password Encryption. This is a complete LMS with all the necessary functionalities. It also provides a feature to generate reports and manage fine. Also has the option to upload cover pages of the book for easier identification.
 
